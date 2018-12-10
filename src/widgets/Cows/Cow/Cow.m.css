@@ -1,21 +1,21 @@
 .root {}
 
 .header {
-    color: green;
-    text-align: center;
+  color: green;
+  text-align: center;
 }
 
 .content {
-    display: flex;
-    flex-direction: row;
-    align-content: center;
-    justify-content: flex-start;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: flex-start;
 }
 
 .image {
-    flex: none;
-    width: 50%;
-    max-height: 300px;
+  flex: none;
+  width: 50%;
+  max-height: 300px;
 }
 
 .description {}

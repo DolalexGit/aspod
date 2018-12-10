@@ -1,3 +1,3 @@
-import Cow  from './Cow';
+import Cow from "./Cow";
 
 export default Cow;
